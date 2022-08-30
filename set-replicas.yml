@@ -1,6 +1,6 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Rollout
 metadata:
- ⁣ ⁣name: frontend-example-deployment
+  name: frontend-example-deployment
 spec:
- ⁣ ⁣replicas: 5
+  ⁣replicas: 5
