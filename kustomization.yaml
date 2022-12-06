@@ -2,4 +2,4 @@
 apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 resources:
-  - https://github.com/kubernetes-sigs/kustomize//examples/multibases/dev/?ref=017c4ae0aa19195db2a51ecc5aa82c56a1f1c99b
+  - https://github.com/kubernetes-sigs/kustomize//examples/multibases/dev/?ref=ll
